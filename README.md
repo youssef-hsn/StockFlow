@@ -11,3 +11,5 @@ StockFlow is a specialized inventory management system that efficiently tracks a
 - **Frontend**: React
 - **Backend**: Node.js (Express)
 - **Database**: PostgreSQL
+
+Entity Relationship Diagram: Drawn in the following [Canva Board](https://www.canva.com/design/DAGTi3mCXQA/HKW-u3eXWbb__w0WuMjLHA/edit?utm_content=DAGTi3mCXQA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
